@@ -18,8 +18,6 @@
 // handler.help = ['ytsearch <query>']
 // handler.tags = ['internet']
 // handler.command = /^yts(earch)?$/i
-
-
 // export default handler
 
 import fetch from 'node-fetch';
